@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Justin Ward 
 - 👀 My goal is to become a Data Scientist. I enjoy learning Python Programming to run data analysis using various models like Linear Regression, Decision Tree, Random Forest, and some Machine Learning techniques.
-- 🌱 I’m currently learning as much as I can about Python Programming, but I would like to expand my knowledge of other languages like R Programming.
-- I want to expand my knowledge in Power BI and tableau for Data visualization.
-- 💞️ I’m looking to collaborate on any type of data analytics project. I am very interested in Sports statistics because I am a avid sports fan. I mainly enjoy the NFL and NBA.
+- 🌱 I’m currently learning as much as I can about Python Programming and Microsoft Power BI to incrrease my knowledge in the field of data analytics.
+- 💞️ I’m looking to collaborate on any type of data analytics project. I am very interested in Sports statistics on both the collegiate and professional level.
 - 📫 How to reach me ...
 Linkedin : https://www.linkedin.com/in/justin-ward-826b08158/  Email: justinward61@gmail.com
 
